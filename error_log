@@ -1,0 +1,14 @@
+[23-Aug-2016 14:56:07 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/robinitb/public_html/application/views/home.php on line 122
+[23-Aug-2016 14:56:58 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/robinitb/public_html/application/views/home.php on line 122
+[23-Aug-2016 14:57:04 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/robinitb/public_html/application/views/home.php on line 122
+[23-Aug-2016 14:58:17 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/robinitb/public_html/application/views/home.php on line 122
+[24-Aug-2016 04:34:24 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/robinitb/public_html/application/views/bills.php on line 8
+[01-Oct-2019 08:30:13 UTC] PHP Fatal error:  Call to undefined method CI_Form_validation::substr() in /home/levvzfcp/public_html/zakir/system/libraries/Form_validation.php on line 1248
+[01-Oct-2019 09:54:49 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/levvzfcp/public_html/zakirnet.online/vendor/symfony/options-resolver/OptionsResolver.php on line 830
+[01-Oct-2019 10:36:43 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/levvzfcp/public_html/zakirnet.online/vendor/symfony/options-resolver/OptionsResolver.php on line 830
+[01-Oct-2019 10:40:35 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/levvzfcp/public_html/zakirnet.online/vendor/symfony/options-resolver/OptionsResolver.php on line 830
+[01-Oct-2019 10:48:46 UTC] PHP Fatal error:  Default value for parameters with a class type hint can only be NULL in /home/levvzfcp/public_html/zakirnet.online/vendor/symfony/options-resolver/OptionsResolver.php on line 847
+[01-Oct-2019 10:48:46 UTC] PHP Fatal error:  Class 'CI_Exceptions' not found in /home/levvzfcp/public_html/zakirnet.online/system/core/Common.php on line 196
+[01-Oct-2019 11:14:16 UTC] PHP Fatal error:  Default value for parameters with a class type hint can only be NULL in /home/levvzfcp/public_html/zakirnet.online/vendor/symfony/options-resolver/OptionsResolver.php on line 847
+[01-Oct-2019 11:14:16 UTC] PHP Fatal error:  Class 'CI_Exceptions' not found in /home/levvzfcp/public_html/zakirnet.online/system/core/Common.php on line 196
+[01-Oct-2019 11:17:05 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/levvzfcp/public_html/zakirnet.online/vendor/symfony/options-resolver/OptionsResolver.php on line 954
